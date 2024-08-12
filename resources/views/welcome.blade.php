@@ -7,11 +7,11 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     
     <meta name="description" content="RAD Clips Media offers a comprehensive suite of creative services including videography, video editing, photography, sound design, graphic design, and songwriting. Whether you're seeking stunning visuals, immersive soundscapes, or captivating designs, our talented team brings expertise and passion to every project. Elevate your brand with RAD Clips Media – where creativity meets craftsmanship.">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide&amp;display=swap">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Kaushan+Script">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Audiowide&amp;display=swap">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins&amp;display=swap">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="{{asset('fonts/font-awesome.min.css')}}">    
     <link rel="stylesheet" href="{{asset('fonts/ionicons.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
@@ -27,9 +27,9 @@
     <script src="{{asset('js/bootstrap.js')}}"></script>
     <script src="{{asset('js/bootstrap.min.js')}}"></script>
     <script src="{{asset('js/bs-init.js')}}"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
 
     
 
@@ -166,8 +166,8 @@
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         <li class="list-inline-item"><a href="#"><i class="fa fa-youtube-play"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=61561400998845"><i class="fa fa-facebook"></i></a></li>
-                        <li class="list-inline-item"><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Frad-clips%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2G0-JmHH29iIJD6A0pOy-2se4q36cf3xY1yS_ah5Yz-NHree6UuC8SvLg_aem_LzRB7G-CD7RrTYENADlBXw&amp;h=AT3N0fqYGrg18RIziCA5ESCTL7EpyGecHshunTk6_Idl0yacmD0aHYtw4_ngtDfGWk2Wi2Oc99CCUPkqKYqMfWnvBXimPHkM5a5jUBuh9fSGlhAh2zP4WDpvr5vrKAUbx7RL3Q"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href="//www.facebook.com/profile.php?id=61561400998845"><i class="fa fa-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="//l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Frad-clips%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2G0-JmHH29iIJD6A0pOy-2se4q36cf3xY1yS_ah5Yz-NHree6UuC8SvLg_aem_LzRB7G-CD7RrTYENADlBXw&amp;h=AT3N0fqYGrg18RIziCA5ESCTL7EpyGecHshunTk6_Idl0yacmD0aHYtw4_ngtDfGWk2Wi2Oc99CCUPkqKYqMfWnvBXimPHkM5a5jUBuh9fSGlhAh2zP4WDpvr5vrKAUbx7RL3Q"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
