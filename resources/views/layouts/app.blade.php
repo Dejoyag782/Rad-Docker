@@ -39,7 +39,11 @@
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
         <!-- Sweet Alert.js JS -->       
-        @vite(['resources/css/app.css', 'resources/js/app.js',])
+        <link rel="preload" as="style" href="https://rad-docker.onrender.com/build/assets/app-DaN8u4V-.css">
+        <link rel="modulepreload" href="https://rad-docker.onrender.com/build/assets/app-Cs0QkU1O.js">
+        <link rel="stylesheet" href="https://rad-docker.onrender.com/build/assets/app-DaN8u4V-.css">
+        <script type="module" src="https://rad-docker.onrender.com/build/assets/app-Cs0QkU1O.js"></script>
+        {{-- @vite(['resources/css/app.css', 'resources/js/app.js',]) --}}
         
     </head>
     <body class="font-poppins antialiased">
