@@ -12,21 +12,21 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Audiowide&amp;display=swap">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins&amp;display=swap">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-    <link rel="stylesheet" href="{{asset('fonts/font-awesome.min.css')}}">    
-    <link rel="stylesheet" href="{{asset('fonts/ionicons.min.css')}}">
-    <link rel="stylesheet" href="{{asset('css/app.css')}}">
-    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">    
-    <link rel="stylesheet" href="{{asset('css/bootstrap_modified.css')}}">
-    <link rel="stylesheet" href="{{asset('css/Highlight-Blue.css')}}">
-    <link rel="stylesheet" href="{{asset('css/Login-Form-Dark.css')}}">
-    <link rel="stylesheet" href="{{asset('css/untitled.css')}}">
-    <link rel="stylesheet" href="{{asset('css/Article-List.min.css')}}">
+    <link rel="stylesheet" href="//fonts/font-awesome.min.css">    
+    <link rel="stylesheet" href="//fonts/ionicons.min.css">
+    <link rel="stylesheet" href="//css/app.css">
+    <link rel="stylesheet" href="//css/bootstrap.min.css">    
+    <link rel="stylesheet" href="//css/bootstrap_modified.css">
+    <link rel="stylesheet" href="//css/Highlight-Blue.css">
+    <link rel="stylesheet" href="//css/Login-Form-Dark.css">
+    <link rel="stylesheet" href="//css/untitled.css">
+    <link rel="stylesheet" href="//css/Article-List.min.css">
 
-    <script src="{{asset('js/app.js')}}"></script>
-    <script src="{{asset('js/agency.js')}}"></script>
-    <script src="{{asset('js/bootstrap.js')}}"></script>
-    <script src="{{asset('js/bootstrap.min.js')}}"></script>
-    <script src="{{asset('js/bs-init.js')}}"></script>
+    <script src="//js/app.js"></script>
+    <script src="//js/agency.js"></script>
+    <script src="//js/bootstrap.js"></script>
+    <script src="//js/bootstrap.min.js"></script>
+    <script src="//js/bs-init.js"></script>
     <script src="//code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
     <script src="//cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
