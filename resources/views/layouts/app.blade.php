@@ -20,29 +20,29 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <!-- Include Choices.js CSS -->
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/choices.min.css')}}" />
-        <link rel="stylesheet" href="{{asset('welcome_assets/fonts/font-awesome.min.css')}}">    
-        <link rel="stylesheet" href="{{asset('welcome_assets/fonts/ionicons.min.css')}}">
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/bootstrap.min.css')}}">
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/Highlight-Blue.css')}}">
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/Login-Form-Dark.css')}}">
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/bootstrap_modified.css')}}">
-        <link rel="stylesheet" href="{{asset('welcome_assets/css/Article-List.css')}}">
+        <link rel="stylesheet" href="{{asset('css/choices.min.css')}}" />
+        <link rel="stylesheet" href="{{asset('fonts/font-awesome.min.css')}}">    
+        <link rel="stylesheet" href="{{asset('fonts/ionicons.min.css')}}">
+        <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+        <link rel="stylesheet" href="{{asset('css/Highlight-Blue.css')}}">
+        <link rel="stylesheet" href="{{asset('css/Login-Form-Dark.css')}}">
+        <link rel="stylesheet" href="{{asset('css/bootstrap_modified.css')}}">
+        <link rel="stylesheet" href="{{asset('css/Article-List.css')}}">
 
          <!-- Scripts -->          
         <!-- Include Choices.js JS -->
         <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
-        <script src="{{asset('welcome_assets/js/agency.js')}}"></script>
-        <script src="{{asset('welcome_assets/js/bootstrap.js')}}"></script>
-        <script src="{{asset('welcome_assets/js/bootstrap.min.js')}}"></script>
-        <script src="{{asset('welcome_assets/js/bs-init.js')}}"></script>
+        <script src="{{asset('js/agency.js')}}"></script>
+        <script src="{{asset('js/bootstrap.js')}}"></script>
+        <script src="{{asset('js/bootstrap.min.js')}}"></script>
+        <script src="{{asset('js/bs-init.js')}}"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Sweet Alert.js JS -->       
         @vite(['resources/css/app.css', 'resources/js/app.js',])
         
     </head>
     <body class="font-poppins antialiased">
-        <div class="min-h-screen bg-gray-100 dark:bg-gray-900"  style="max-width: 100%;min-width: 100%;min-height: 750px; padding-bottom: 100px; max-height: 100%;background: url(&quot;welcome_assets/img/giphy.gif&quot;) no-repeat, #ffffff;background-size: cover, auto;">
+        <div class="min-h-screen bg-gray-100 dark:bg-gray-900"  style="max-width: 100%;min-width: 100%;min-height: 750px; padding-bottom: 100px; max-height: 100%;background: url(&quot;img/giphy.gif&quot;) no-repeat, #ffffff;background-size: cover, auto;">
             @include('layouts.navigation')
             @include('components.response')
 
